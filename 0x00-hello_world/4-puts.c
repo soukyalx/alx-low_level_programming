@@ -2,7 +2,7 @@
 
 
 /**
- * main - prints "A program that prints a line with puts function
+ * main - prints A program that prints a line with puts function
  * Return : Always 0.
  */
 
