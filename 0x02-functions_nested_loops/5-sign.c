@@ -18,8 +18,8 @@
 	return (-1);
 	}
 	 else
-	 {
+	{
 	_putchar(48);
-	return (-1);
-	 }
+	return (0);
+	}
 }	 
